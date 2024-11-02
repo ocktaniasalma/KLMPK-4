@@ -1,0 +1,29 @@
+
+.container {
+    background-color: #f0f8ff;
+    padding: 20px;
+}
+/* Custom styling untuk navbar */
+.navbar {
+    background-color: #f8f9fa; /* Warna background abu-abu terang */
+    padding: 10px 20px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #007bff;
+}
+
+.nav-link {
+    color: #343a40; /* Warna abu gelap */
+    margin-right: 15px; /* Jarak antar menu */
+    transition: color 0.3s ease; /* Smooth transition saat hover */
+}
+
+.nav-link:hover {
+    color: #007bff; /* Warna biru saat dihover */
+}
+
+.nav-item {
+    list-style: none; /* Hapus bullet point */
+}
