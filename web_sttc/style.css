@@ -23,10 +23,22 @@
     color: #007bff; /* Warna biru saat dihover */
 }
 
-.nav-item {
+.nav-item { 
     list-style: none; /* Hapus bullet point */
 }
 
 .navbar-nav .nav-item {
     padding: 0 20px; /* Tambahkan padding kiri dan kanan */
+}
+
+.head {
+    background-color: white;
+}
+
+.body {
+    background-color: white;
+}
+
+.text-container {
+    margin-left: 1px;
 }
