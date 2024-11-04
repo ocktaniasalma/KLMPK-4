@@ -6,7 +6,6 @@
 .navbar {
     background-color: #30b81b; /* Warna background hijau */
     padding: 10px 20px;
-    color: whitesmoke;
 }
 
 .navbar-brand {
@@ -15,7 +14,7 @@
 }
 
 .nav-link {
-    color: #343a40; /* Warna abu gelap */
+    color: white; 
     margin-right: 15px; /* Jarak antar menu */
     transition: color 0.3s ease; /* Smooth transition saat hover */
 }
@@ -29,5 +28,5 @@
 }
 
 .navbar-nav .nav-item {
-    padding: 0 15px; /* Tambahkan padding kiri dan kanan */
+    padding: 0 20px; /* Tambahkan padding kiri dan kanan */
 }
