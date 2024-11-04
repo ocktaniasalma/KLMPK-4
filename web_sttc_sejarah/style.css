@@ -26,9 +26,3 @@
 .nav-item {
     list-style: none; /* Hapus bullet point */
 }
-
-.navbar-nav .nav-item {
-    padding: 0 20px; /* Tambahkan padding kiri dan kanan */
-}
-
-
