@@ -4,8 +4,9 @@
 }
 /* Custom styling untuk navbar */
 .navbar {
-    background-color: #f8f9fa; /* Warna background abu-abu terang */
+    background-color: #30b81b; /* Warna background abu-abu terang */
     padding: 10px 20px;
+    color: white;
 }
 
 .navbar-brand {
