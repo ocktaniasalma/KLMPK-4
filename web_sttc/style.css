@@ -6,7 +6,6 @@
 .navbar {
     background-color: #30b81b; /* Warna background abu-abu terang */
     padding: 10px 20px;
-    color: white;
 }
 
 .navbar-brand {
@@ -15,7 +14,7 @@
 }
 
 .nav-link {
-    color: #343a40; /* Warna abu gelap */
+    color: white; /* Warna abu gelap */
     margin-right: 15px; /* Jarak antar menu */
     transition: color 0.3s ease; /* Smooth transition saat hover */
 }
